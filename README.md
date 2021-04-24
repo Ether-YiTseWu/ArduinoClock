@@ -1,4 +1,5 @@
 # ArduinoClock
+![](https://github.com/tailer954/ArduinoClock/blob/main/ElectricalClock.gif)
 ## 概述
 主要利用微控制器 Arduino Uno 和一個 20 乘 4 大小的液晶螢幕，製作一個能顯示星期、日期、時間的電子鐘
     
